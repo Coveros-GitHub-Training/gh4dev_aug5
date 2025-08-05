@@ -1,7 +1,7 @@
 # GitHub for Developers
 
-- Class Date: THIS-DATE
-- Facilitator: @TEACHER-HANDLE
+- Class Date: August 5 - 6, 2025
+- Facilitator: @Connor Owen
 
 ## Class Resources
 
